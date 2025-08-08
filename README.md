@@ -24,6 +24,11 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 Sigue estos pasos para obtener una copia del proyecto y empezar a trabajar localmente.
 
+## Juegas en vivo 🎮
+Puedes jugar en vivo visitando el link de GitHub Pages
+
+[Play Amigo Secreto](https://juanturriago7.github.io/amigo-secreto/)
+
 ### Pre-requisitos 📋
 
 No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúrate de tener un navegador web como Firefox, Chrome, o sus variaciones. Si trabajas con Visual Studio Code, puedes utilizar la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para una experiencia más fluida.
